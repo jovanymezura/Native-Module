@@ -1,0 +1,3 @@
+rootProject.name = 'reactModule'
+
+include ':app'
